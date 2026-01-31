@@ -79,7 +79,7 @@
 
 <div align="center">
    <img
-    src="https://github-readme-stats.vercel.app/api?username=SrDerik&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox_light&cache_seconds=1800"
+    src="https://github-readme-stats-x6cf.vercel.app/api?username=SrDerik&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox_light&cache_seconds=1800"
     height="150"
     alt="GitHub stats"
   />
