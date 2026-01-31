@@ -79,12 +79,12 @@
 
 <div align="center">
    <img
-    src="https://github-readme-stats-x6cf.vercel.app/api?username=SrDerik&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox_light&cache_seconds=1800"
+    src="https://github-readme-stats-deriksoares.vercel.app/api?username=SrDerik&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox_light&cache_seconds=1800"
     height="150"
     alt="GitHub stats"
   />
   <img
-    src="https://github-readme-stats-x6cf.vercel.app/api/top-langs?username=SrDerik&layout=compact&langs_count=6&hide_border=false&theme=gruvbox_light"
+    src="https://github-readme-stats-deriksoares.vercel.app/api/top-langs?username=SrDerik&layout=compact&langs_count=6&hide_border=false&theme=gruvbox_light"
     height="150"
     alt="Top languages"
   />
