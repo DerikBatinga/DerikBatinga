@@ -5,7 +5,7 @@ https://github.com/AntonioSena0
  -->
 
 <details open>
-<summary>Portuguese Version</summary>
+<summary><b>Portuguese Version</b></summary>
 
 <img src="img/Banner.png" alt="Banner">
 
