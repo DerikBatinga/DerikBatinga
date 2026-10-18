@@ -52,7 +52,7 @@ I'm looking for internship opportunity or a position as a young apprentice to ap
 #### 🐧 Operating Systems
 ![Linux](https://img.shields.io/badge/Linux-FFA500.svg?style=flat&logo=linux&logoColor=white)
 
-### 📚 Atualmente Estudando
+### 📚 Currently studying
 
 - ☕ Back-end development with **Java + Spring Boot**
 - 🗄️ **SQL e NoSQL** databases
@@ -119,7 +119,7 @@ Estou em busca da minha primeira oportunidade como **Desenvolvedor Back-end Java
 #### 🐧 Sistemas Operacionais
 ![Linux](https://img.shields.io/badge/Linux-FFA500.svg?style=flat&logo=linux&logoColor=white)
 
-### 📚 Currently studying
+### 📚 Atualmente Estudando
 
 - ☕ Desenvolvimento Backend com **Java + Spring Boot**
 - 🗄️ Banco de Dados **SQL e NoSQL**
