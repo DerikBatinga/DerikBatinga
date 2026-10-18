@@ -1,105 +1,133 @@
-##
+<!--
+Readme inspirado no github de Antonio Sena
+Total créditos a ele:
+https://github.com/AntonioSena0
+ -->
 
-<div align="center">
-<img width=100% bottom=50px src="https://i.imgur.com/EvfWZGm.jpeg"/>
+<details open>
+<summary>Portuguese Version</summary>
 
+<img src="img/Banner.png" alt="Banner">
 
+# Olá, me chamo Derik Batinga! 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Momo+Trust+Display&pause=1000&color=C99443&center=true&vCenter=true&width=435&lines=Hello!+Welcome+to+my+GitHub;I'm+Derik+Soares+Batinga+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F;I'm+a+student+from+Etec+da+Zona+Leste!%F0%9F%93%92)](https://git.io/typing-svg)
+### 👨🏾‍💻 Back-end Developer | Graduando em Sistemas de Informação
 
-###
-<h2>Social Medias</h2>
+Olá, me chamo Derik, sou estudante do Ensino Médio técnico em DS na Etec da Zona Leste, buscando oportunidade de estágio ou jovem aprendiz para aplicar e expandir meus conhecimentos em Java, Spring Boot, Docker e Banco de Dados.
 
- <a 
-   href="https://www.linkedin.com/in/derikbatinga" 
-   target="_blank"
-    >
-    <img 
-      src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
-      height="40"
-      alt="linkedin logo" 
-    />
-  </a>
-  <a
-    href="https://discord.gg/uHPwsyMzSH"
-    target="_blank"
-    >
-    <img
-      src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" 
-      height="40"
-      alt="discord logo"
-    />
-  </a>
-  <a
-    href="https://t.me/+bLAiE4SqByszMmZh"
-    target="_blank"
-    >
-    <img 
-      src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge"
-      height="40"
-      alt="telegram logo" 
-    />
-  </a>
-  <a href="mailto:derik@email.com" 
-    target="_blank">
-    <img 
-      src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge"
-      height="40" 
-      alt="gmail logo"  
-    />
-  </a>
+Gosto de estudar multiplas áreas, como engenharia de motores, astrologia e Sistemas Embarcalos, isso sem contar minha paixão por programação.
 
-<h2>LEARNING</h2>
-<div align="center">
-    <img
-    src="https://streak-stats.demolab.com?user=DerikBatinga&theme=gruvbox_light"
-    height="150"
-    alt="GitHub streak"
-  />
-</div>
+---
 
+### 🎯 Objetivo Profissional
+Estou em busca da minha primeira oportunidade como **Desenvolvedor Back-end**, pronto para somar com minha dedicação e competência técnica em projetos de impacto.
 
-![Linux](https://img.shields.io/badge/Linux-%23c99443?style=for-the-badge&logo=linux&logoColor=000000)  
-![HTML5](https://img.shields.io/badge/HTML5-%23c99443?style=for-the-badge&logo=html5&logoColor=000000)
-![CSS3](https://img.shields.io/badge/CSS3-%23c99443?style=for-the-badge&logo=css3&logoColor=000000)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23c99443?style=for-the-badge&logo=javascript&logoColor=000000)
-![Java](https://img.shields.io/badge/Java-%23c99443?style=for-the-badge&logo=openjdk&logoColor=000000)
-###
-<h2 align="center">IDE's</h2>
+---
 
-![VSCode](https://img.shields.io/badge/VSCode-%23c99443?style=for-the-badge&logo=visualstudiocode&logoColor=000000)
-![NetBeans](https://img.shields.io/badge/NetBeans-%23c99443?style=for-the-badge&logo=apachenetbeanside&logoColor=000000)
-![Eclipse](https://img.shields.io/badge/Eclipse-%23c99443?style=for-the-badge&logo=eclipseide&logoColor=000000)
+### 🛠 Tecnologias e Ferramentas
 
-<h2 align="center">DESIGN</h2>
+#### 🚀 Linguagens de Programação
+<!-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) -->
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-73BA25?style=flat&logo=spring&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-7F52FF.svg?style=flat&logo=css&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
 
-![Figma](https://img.shields.io/badge/Figma-%23c99443?style=for-the-badge&logo=figma&logoColor=000000)
+<!-- ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) -->
 
-<h2 align="center">STATUS</h2>
+#### 💾 Banco de Dados
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-39457E?style=flat&logo=postgresql&logoColor=white)
+<!-- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=flat&logo=rabbitmq&logoColor=white) -->
 
-<div align="center">
-   <img
-    src="https://github-readme-stats-deriksoares.vercel.app/api?username=DerikBatinga&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox_light&cache_seconds=1800"
-    height="150"
-    alt="GitHub stats"
-  />
-  <img
-    src="https://github-readme-stats-deriksoares.vercel.app/api/top-langs?username=DerikBatinga&layout=compact&langs_count=6&hide_border=false&theme=gruvbox_light"
-    height="150"
-    alt="Top languages"
-  />
-</div>
+#### 📦 Ferramentas
+![Docker](https://img.shields.io/badge/Docker-007CFF?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white)
 
+#### 🐧 Sistemas Operacionais
+![Linux](https://img.shields.io/badge/Linux-FFA500.svg?style=flat&logo=linux&logoColor=white)
 
-<img 
-  src="https://visitor-badge.laobi.icu/badge?page_id=DerikBatinga.DerikBatinga&left_color=goldenrod&right_color=black" 
-/>
+### 📚 Atualmente Estudando
 
+- ☕ Desenvolvimento Backend com **Java + Spring Boot**
+- 🗄️ Banco de Dados **SQL and NoSQL**
+- 🐙 **Git e GitHub** para versionamento
 
+---
 
-###
+### 📫 Contato
 
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox_light"  />
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://github.com/DerikBatinga)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:deriksbatinga@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-4285F4?style=flat&logo=discord&logoColor=white)](https://discord.gg/uHPwsyMzSH)
 
-###
+---
+
+</details>
+
+<details>
+<summary><b>English Version</b></summary>
+
+<img src="img/Banner.png" alt="Banner">
+
+---
+
+# Olá, me chamo Derik Batinga! 👋
+
+### 👨🏾‍💻 Back-end Developer | Graduando em Sistemas de Informação
+
+Olá, me chamo Derik, sou estudante do Ensino Médio técnico em DS na Etec da Zona Leste, buscando oportunidade de estágio ou jovem aprendiz para aplicar e expandir meus conhecimentos em Java, Spring Boot, Docker e Banco de Dados.
+
+Gosto de estudar multiplas áreas, como engenharia de motores, astrologia e Sistemas Embarcalos, isso sem contar minha paixão por programação.
+
+---
+
+### 🎯 Objetivo Profissional
+Estou em busca da minha primeira oportunidade como **Desenvolvedor Back-end**, pronto para somar com minha dedicação e competência técnica em projetos de impacto.
+
+---
+
+### 🛠 Tecnologias e Ferramentas
+
+#### 🚀 Linguagens de Programação
+<!-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) -->
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-73BA25?style=flat&logo=spring&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-7F52FF.svg?style=flat&logo=css&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+
+<!-- ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) -->
+
+#### 💾 Banco de Dados
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-39457E?style=flat&logo=postgresql&logoColor=white)
+<!-- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=flat&logo=rabbitmq&logoColor=white) -->
+
+#### 📦 Ferramentas
+![Docker](https://img.shields.io/badge/Docker-007CFF?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white)
+
+#### 🐧 Sistemas Operacionais
+![Linux](https://img.shields.io/badge/Linux-FFA500.svg?style=flat&logo=linux&logoColor=white)
+
+### 📚 Atualmente Estudando
+
+- ☕ Desenvolvimento Backend com **Java + Spring Boot**
+- 🗄️ Banco de Dados **SQL and NoSQL**
+- 🐙 **Git e GitHub** para versionamento
+
+---
+
+### 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://github.com/DerikBatinga)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:deriksbatinga@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-4285F4?style=flat&logo=discord&logoColor=white)](https://discord.gg/uHPwsyMzSH)
+
+---
+
+</details>
