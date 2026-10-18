@@ -1,32 +1,35 @@
 <!--
-Readme inspirado no github de Antonio Sena
-Total créditos a ele:
+Readme inspirado nos seguintes githubs
+Total créditos a eles:
 https://github.com/AntonioSena0
- -->
+https://github.com/asapnyell 
+-->
 
 <details open>
-<summary><b>Portuguese Version</b></summary>
+<summary><b>English Version</b></summary>
 
 <img src="img/Banner.png" alt="Banner">
 
-# Olá, me chamo Derik Batinga! 👋
+# Hello, I'm Derik Batinga! 👋
 
-### 👨🏾‍💻 Back-end Developer | Graduando em Sistemas de Informação
+### 👨‍💻 Aspiring Back-end Developer | Systems Development Student
 
-Olá, me chamo Derik, sou estudante do Ensino Médio técnico em DS na Etec da Zona Leste, buscando oportunidade de estágio ou jovem aprendiz para aplicar e expandir meus conhecimentos em Java, Spring Boot, Docker e Banco de Dados.
+I'm a technical high school student pursuing a qualification in Systems Development at ETEC da Zona Leste, Brazil.
 
-Gosto de estudar multiplas áreas, como engenharia de motores, astrologia e Sistemas Embarcalos, isso sem contar minha paixão por programação.
+I'm passionate about programming and enjoy exploring different fields, including engine engineering, embedded systems and astrology.
 
----
-
-### 🎯 Objetivo Profissional
-Estou em busca da minha primeira oportunidade como **Desenvolvedor Back-end**, pronto para somar com minha dedicação e competência técnica em projetos de impacto.
+My main focus is back-end development, particularly Java, Spring Boot, and databases. I'm currently looking for an internship or apprenticeship opportunity where I can apply and enhance my knowledge,
 
 ---
 
-### 🛠 Tecnologias e Ferramentas
+### 🎯 Professional Goal
+I'm looking for internship opportunity or a position as a young apprentice to apply and expand my knowledge in Java, Spring Boot, Docker and Database.
 
-#### 🚀 Linguagens de Programação
+---
+
+### 🛠 Technologies and Tools
+
+#### 🚀 Programming languages
 <!-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) -->
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-73BA25?style=flat&logo=spring&logoColor=white)
@@ -36,30 +39,32 @@ Estou em busca da minha primeira oportunidade como **Desenvolvedor Back-end**, p
 
 <!-- ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) -->
 
-#### 💾 Banco de Dados
+#### 💾 Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-39457E?style=flat&logo=postgresql&logoColor=white)
 <!-- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=flat&logo=rabbitmq&logoColor=white) -->
 
-#### 📦 Ferramentas
+#### 📦 Tools
 ![Docker](https://img.shields.io/badge/Docker-007CFF?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white)
 
-#### 🐧 Sistemas Operacionais
+#### 🐧 Operating Systems
 ![Linux](https://img.shields.io/badge/Linux-FFA500.svg?style=flat&logo=linux&logoColor=white)
 
 ### 📚 Atualmente Estudando
 
-- ☕ Desenvolvimento Backend com **Java + Spring Boot**
-- 🗄️ Banco de Dados **SQL and NoSQL**
-- 🐙 **Git e GitHub** para versionamento
+- ☕ Back-end development with **Java + Spring Boot**
+- 🗄️ **SQL e NoSQL** databases
+- 📦 How to use **Docker** beyond the basics
+- 🐙 **Git** for version control
+- 👨‍🔧 Software Architecture
 
 ---
 
-### 📫 Contato
+### 📫 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://github.com/DerikBatinga)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/derikbatinga/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:deriksbatinga@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-4285F4?style=flat&logo=discord&logoColor=white)](https://discord.gg/uHPwsyMzSH)
 
@@ -68,7 +73,7 @@ Estou em busca da minha primeira oportunidade como **Desenvolvedor Back-end**, p
 </details>
 
 <details>
-<summary><b>English Version</b></summary>
+<summary><b>Portuguese Version</b></summary>
 
 <img src="img/Banner.png" alt="Banner">
 
@@ -76,7 +81,7 @@ Estou em busca da minha primeira oportunidade como **Desenvolvedor Back-end**, p
 
 # Olá, me chamo Derik Batinga! 👋
 
-### 👨🏾‍💻 Back-end Developer | Graduando em Sistemas de Informação
+### 👨‍💻 Back-end Developer | Cursando em Desenvolvimento de Sistemas
 
 Olá, me chamo Derik, sou estudante do Ensino Médio técnico em DS na Etec da Zona Leste, buscando oportunidade de estágio ou jovem aprendiz para aplicar e expandir meus conhecimentos em Java, Spring Boot, Docker e Banco de Dados.
 
@@ -85,7 +90,7 @@ Gosto de estudar multiplas áreas, como engenharia de motores, astrologia e Sist
 ---
 
 ### 🎯 Objetivo Profissional
-Estou em busca da minha primeira oportunidade como **Desenvolvedor Back-end**, pronto para somar com minha dedicação e competência técnica em projetos de impacto.
+Estou em busca da minha primeira oportunidade como **Desenvolvedor Back-end Java**, pronto para aprender e somar com minha dedicação e competências em projetos reais.
 
 ---
 
@@ -117,17 +122,20 @@ Estou em busca da minha primeira oportunidade como **Desenvolvedor Back-end**, p
 ### 📚 Atualmente Estudando
 
 - ☕ Desenvolvimento Backend com **Java + Spring Boot**
-- 🗄️ Banco de Dados **SQL and NoSQL**
-- 🐙 **Git e GitHub** para versionamento
+- 🗄️ Banco de Dados **SQL e NoSQL**
+- 📦 Como utilizar **Docker** além do básico
+- 🐙 **Git** para versionamento
+- 👨‍🔧 Arquitetura de Sistemas
 
 ---
 
 ### 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://github.com/DerikBatinga)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/derikbatinga/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:deriksbatinga@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-4285F4?style=flat&logo=discord&logoColor=white)](https://discord.gg/uHPwsyMzSH)
 
 ---
+
 
 </details>
