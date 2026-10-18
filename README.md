@@ -1,7 +1,7 @@
 <!--
 Readme inspirado nos seguintes githubs
 Total créditos a eles:
-https://github.com/AntonioSena0
+https://github.com/AntonioSena0 (Esse cara é brabo)
 https://github.com/asapnyell 
 -->
 
