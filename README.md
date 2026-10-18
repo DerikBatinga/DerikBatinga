@@ -119,7 +119,7 @@ Estou em busca da minha primeira oportunidade como **Desenvolvedor Back-end Java
 #### 🐧 Sistemas Operacionais
 ![Linux](https://img.shields.io/badge/Linux-FFA500.svg?style=flat&logo=linux&logoColor=white)
 
-### 📚 Atualmente Estudando
+### 📚 Currently studying
 
 - ☕ Desenvolvimento Backend com **Java + Spring Boot**
 - 🗄️ Banco de Dados **SQL e NoSQL**
